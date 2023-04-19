@@ -5,3 +5,6 @@ The Dataset used is: https://archive.ics.uci.edu/ml/machine-learning-databases/0
 Number of attributes: 17 <br />
 Number of instances: 13611
 
+
+
+<img width="420" alt="Screenshot 2023-04-19 at 11 38 18 AM" src="https://user-images.githubusercontent.com/71080831/232981863-24983308-fcf9-4f5a-bc0d-b449773578ce.png">
